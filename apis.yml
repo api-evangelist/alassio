@@ -45,7 +45,7 @@ modified: '2026-07-17'
 image: https://www.alassio.fr/og-image.png
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Payroll
 - Human Resources
 - Payroll Software
@@ -64,6 +64,7 @@ tags_raw:
 - France
 - Fintech
 - Compensation
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
